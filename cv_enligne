@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8 ">
+    <title>Curriculum-Vitae</title>
+</head>
+<body>
+    <header<h1>Valérie COLLE - ANALYSTE</h1></header>
+    
+    <main>
+        <p>
+            <h2>Expérience professionnelle</h2>
+            <ul>
+                <li>2014 à ce jour - Pôle emploi (67)</li> 
+                <li>2011 - 2013 : Chef de projet - RECTORAT NANCY-METZ (54)</li>
+                <li>2007 - 2010 : Chef de projet - Conseil général de Meurthe-et-Moselle (54)</li>
+                <li>20056 mois : Analyste - Les Eaux et Fôrets (54)</li>
+                <li>1992 - 2002 : Responsable développement - MGEL (54)</li>
+                <li>1989 - 1992 : Analyste-programmeur - Home Institut (54)</li>
+            </ul>
+       </p>
+       <P><h2>Compétences professionnelles</h2>
+       <p>
+            <li>Administration système></li>
+                <ul>
+                    <li> système PICK</li>
+                    <li>système MVS DIGITAL</li>
+                    <li>Messagerie/ gestion travail collaboratif Lotus Note </li>
+                    <li> connaissance système winsdows 8, LINUX, VIRTUALISATION <li>
+                </ul>
+            <li> Programmation: basic, Php, html5,CSS, Ajax, Javascript</li>
+            <li> ... ETC.</li>
+            <li>Gestion projet : étude faisabilité, management ,...</li>
+       <p>
+            <h2>Formations</h2>
+            <ul>
+                <li>2014        : Administration système - ENSEM</li>
+                <li>2002 - 2003 : MASTER Audit et conception de système d'information</li>
+                <li>1992 - 1995 : MIAGE ()</li>
+                <li> ... etc<./li>
+            </ul>
+        </p>
+    </main>
+    
+    <footer>16 boulevard de l'Europe 67300 schiltigheim</footer>
+</body>
+
+</html>
