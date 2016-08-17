@@ -1,0 +1,28 @@
+/*
+Feuille de style du curriculum-vitae
+*/
+
+main
+{
+    font-family: Verdana, "Trebuchet MS", sans-serif;
+}
+
+h1, h2
+{
+    color: blue;
+    font-weight: : bold;
+}
+
+.liste_1
+{
+  font-size: 3px;
+  text-align: left;
+}
+
+.liste_2
+{
+    font-size: 2px;
+    font-family: cursive, "Trebuchet MS", sans-serif;
+    text-align: right;
+}
+
