@@ -2,6 +2,12 @@
 Feuille de style du curriculum-vitae
 */
 
+span
+{
+   background-color: rgb(212,212,212); 
+   border: thin solid; box-shadow: 0.2em 0.2em #CCC;
+}
+
 main
 {
     font-family: Verdana, "Trebuchet MS", sans-serif;
